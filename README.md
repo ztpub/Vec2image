@@ -30,4 +30,5 @@ Email: tanghui2020@scut.edu.cn; zengtao@sibs.ac.cn
 
 ##############################################################################################################################################################
 * V0.2     Supporting umap now, in addition to kPCA, tSNE
+
            Supplying the python implementation of ResNet for Vec2image, which is based on PyTorch
