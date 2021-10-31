@@ -26,3 +26,7 @@ Note :
 
 Contact
 Email: tanghui2020@scut.edu.cn; zengtao@sibs.ac.cn
+
+
+##############################################################################################################################################################
+* V0.2     Supporting umap now, in addition to kPCA, tSNE
