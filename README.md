@@ -32,3 +32,7 @@ Email: tanghui2020@scut.edu.cn; zengtao@sibs.ac.cn
 * V0.2     Supporting umap now, in addition to kPCA, tSNE
 
            Supplying the python implementation of ResNet for Vec2image, which is based on PyTorch
+##############################################################################################################################################################
+
+Reference:
+Tang H, Yu X, Liu R, Zeng T. Vec2image: an explainable artificial intelligence model for the feature representation and classification of high-dimensional biological data by vector-to-image conversion. Brief Bioinform. 2022 Jan 31:bbab584. doi: 10.1093/bib/bbab584. PMID: 35106553
