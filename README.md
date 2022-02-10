@@ -22,7 +22,7 @@ Note :
 (3) The MaxEpochs is set to 100 in makeObjFcn5.m at Line 130. Please change this as desired. This will affect the processing time of training.
 
 
-* Currently, the password of the compressed package can be obtained from the authors, and the package code will be freely accessed here before end of 2022.  
+Now, the package code V0.2 is freely accessed.  
 
 Contact
 Email: tanghui2020@scut.edu.cn; zengtao@sibs.ac.cn
